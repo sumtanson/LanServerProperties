@@ -1,6 +1,6 @@
 {
   "lanserverproperties.options.online_mode": "Online Mode",
-  "lanserverproperties.options.online_mode.on": "Online Mode: ON",
+  "lanserverproperties.options.online_mode.off": "Online Mode: OFF",
   "lanserverproperties.options.online_mode.on.message": "Enabling online mode will only allow players logged in with valid Microsoft/Mojang accounts to join the LAN server.",
   "lanserverproperties.options.online_mode.off.vanilla": "Online Mode: OFF",
   "lanserverproperties.options.online_mode.off.vanilla.message": "Disabling online mode will allow anyone to join the LAN server.",
